@@ -14,3 +14,4 @@ I am currently a third-year PhD student at [School of Data Science](https://sds.
 ## Research Interest
 - Deep Reinforcement Learning
 - Machine Learning
+- LLM Hallucination
